@@ -1,10 +1,10 @@
-package javaapplication12;
+package ReverseString;
 
 /**
  *
  * @author sahni
  */
-public class JavaApplication12 {
+public class ReverseString {
 
     /**
      * @param args the command line arguments
